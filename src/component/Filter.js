@@ -18,7 +18,7 @@ const Filter = ( {FilterData , setCatagory } ) => {
                         {data.title}
                     
                     </button>
-                );
+                ); 
             })
         }
     </div>
